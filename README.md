@@ -16,3 +16,6 @@ A chrome extension which show quotes whenever user switch to new tab. It will wo
 
 # Change background image
 Take an image and name it "back.jpg" and replace it with the original image.
+
+# Facing problem
+If you are facing any problem. Contact me at sahil.rajput.0196@gmail.com
