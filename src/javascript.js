@@ -1,4 +1,3 @@
-
 function Quote(callback) 
 {
   $.getJSON('quotes.json',function(data) 
