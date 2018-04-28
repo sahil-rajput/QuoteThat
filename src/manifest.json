@@ -2,7 +2,7 @@
   "manifest_version": 2,
 
   "name": "QuoteThat",
-  "description": "Motivational code",
+  "description": "An Extension which show quotes whenever user switch to new tab. It will work offline and change quote in every 60 seconds.",
   "version": "1.0.0",
   "chrome_url_overrides" : {
     "newtab": "popup.html"
