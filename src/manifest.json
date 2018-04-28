@@ -1,0 +1,14 @@
+{
+  "manifest_version": 2,
+
+  "name": "QuoteThat",
+  "description": "Motivational code",
+  "version": "1.0.0",
+  "chrome_url_overrides" : {
+    "newtab": "popup.html"
+  },
+    "browser_action":{
+    "default_icon": "icon.png"
+  },
+  "permissions": ["activeTab"]
+}
