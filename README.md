@@ -19,3 +19,17 @@ Take an image and name it "back.jpg" and replace it with the original image.
 
 # Facing problem
 If you are facing any problem. Contact me at sahil.rajput.0196@gmail.com
+
+## Meta
+
+Sahil Rajput – sahil.rajput.0196@gmail.com
+
+Distributed under the MIT license. See `LICENSE` for more information.
+
+## Contributing
+
+1. Fork it (<https://github.com/sahil-rajput/QuoteThat/fork>)
+2. Create your feature branch (`git checkout -b feature/fooBar`)
+3. Commit your changes (`git commit -am 'Add some fooBar'`)
+4. Push to the branch (`git push origin feature/fooBar`)
+5. Create a new Pull Request
